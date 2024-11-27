@@ -1,5 +1,4 @@
-import os
-import pickle, pyfiglet
+import pickle
 import time
 
 with open('acc.txt', 'ab') as g:
