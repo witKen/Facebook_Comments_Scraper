@@ -1,8 +1,10 @@
 # Facebook_Comments_Scraper
-<h3> Usage </h3>
-<l> Activate .venv environment </l>l> 
-<l> Install requirements "pip install -r requirements.txt" </l>
-<l> Run add_account.py and add you facebook accounts </l>
-<l> Run scraping.py and input number of bot, url, ... </l>
-<l> Press esc to stop scraping </l>
-<l> Build and run main.cpp </l>
+<h3>Usage</h3>
+<ul>
+    <li>Activate the .venv environment.</li>
+    <li>Install requirements: <code>pip install -r requirements.txt</code>.</li>
+    <li>Run <code>add_account.py</code> and add your Facebook accounts.</li>
+    <li>Run <code>scraping.py</code> and input the number of bots, URL, etc.</li>
+    <li>Press <kbd>Esc</kbd> to stop scraping.</li>
+    <li>Build and run <code>main.cpp</code>.</li>
+</ul>
