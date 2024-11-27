@@ -1,1 +1,3 @@
-.vscode
+# Ignore specific text files
+acc.txt
+input.txt
