@@ -1,0 +1,11 @@
+# Build artifacts & binaries
+build/
+*.exe
+*.o
+
+# IDE & local configs
+.vscode/
+
+# Sensitive credentials & scraped dumps
+acc.txt
+input*.txt
